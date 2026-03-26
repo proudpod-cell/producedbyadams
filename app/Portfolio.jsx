@@ -32,7 +32,7 @@ const WORK = [
     link: "https://youtu.be/WLEesT7h8Fg?si=Taljzf9PFxa9Kj0s&t=525",
     videoId: "WLEesT7h8Fg",
     embedUrl: "https://www.youtube.com/embed/WLEesT7h8Fg?si=csB80qhVpHKtIzS-&start=525&autoplay=1",
-    thumbImg: "/images/nickdadababy.png",
+    thumbImg: "/images/nickdafuture.png",
     category: "Showrunner / Formats",
   },
   {
@@ -54,7 +54,7 @@ const WORK = [
     link: "https://www.youtube.com/watch?v=TnZ86XsJ1YQ",
     videoId: "TnZ86XsJ1YQ",
     embedUrl: "https://www.youtube.com/embed/TnZ86XsJ1YQ?si=a6XF0VsGRofroV68&autoplay=1",
-    thumbImg: "/images/thereal.png",
+    thumbImg: "/images/Thereal.png",
     category: "Branded Content",
   },
   {
