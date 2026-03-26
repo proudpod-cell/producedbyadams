@@ -47,7 +47,7 @@ const WORK = [
     category: "Talent + Interviews",
   },
   {
-    title: "Turning a Brand Deal Into a Watchable Segment",
+    title: "Turning a Brand Deal Into Fun Entertainment",
     subtitle: "The Real",
     role: "Senior Producer",
     desc: "Wrote and directed a branded segment balancing sponsor goals with show tone, pacing, and audience engagement.",
@@ -73,14 +73,14 @@ const PODCASTS = [
   {
     title: "Fail Fast with Adam and Reggie",
     desc: "Long-form conversations built around candid storytelling, comedy, and lived creative experience.",
-    art: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_2_33_18_PM.png",
+    art: "/mnt/user-data/uploads/failfast.png",
     link: "https://open.spotify.com/show/1lh0GkUaD36FsszAN5mRjI",
     linkLabel: "Listen on Spotify",
   },
   {
     title: "Proudly Resents",
     desc: "The cult movie podcast — interview-driven entertainment with a strong point of view and deep producing instincts.",
-    art: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_2_34_39_PM.png",
+    art: "/mnt/user-data/uploads/proudlyresents.png",
     link: "https://proudlyresents.com",
     linkLabel: "Visit proudlyresents.com",
   },
