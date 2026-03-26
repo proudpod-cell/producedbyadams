@@ -58,7 +58,7 @@ const WORK = [
     category: "Branded Content",
   },
   {
-    title: "Hilarious Comedy Team 'Frangela" Take Down Action Movies",
+    title: "Hilarious Comedy Team \"Frangela\" Take Down Action Movies",
     subtitle: "Comedy Field Piece",
     role: "Producer / Director",
     desc: "Wrote and directed a comedy-driven field piece built around performance, pace, and a strong comedic point of view.",
