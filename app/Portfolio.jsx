@@ -10,7 +10,7 @@ const WORK = [
     link: "https://www.youtube.com/watch?v=jNzUVqPnkNE",
     videoId: "jNzUVqPnkNE",
     embedUrl: "https://www.youtube.com/embed/jNzUVqPnkNE?si=IgNSWQXEzMm6hH1U&autoplay=1",
-    thumbImg: "/mnt/user-data/uploads/willandgrace.png",
+    thumbImg: "/images/willandgrace.png",
     category: "Showrunner / Formats",
   },
   {
@@ -21,7 +21,7 @@ const WORK = [
     link: "https://www.accessonline.com/videos/can-these-contestants-beat-mario-lopez-in-celebrity-trivia",
     videoId: null,
     embedUrl: "https://www.accessonline.com/embed-video/can-these-contestants-beat-mario-lopez-in-celebrity-trivia",
-    thumbImg: "/mnt/user-data/uploads/beatmario.png",
+    thumbImg: "/images/beatmario.png",
     category: "Showrunner / Formats",
   },
   {
@@ -32,7 +32,7 @@ const WORK = [
     link: "https://youtu.be/WLEesT7h8Fg?si=Taljzf9PFxa9Kj0s&t=525",
     videoId: "WLEesT7h8Fg",
     embedUrl: "https://www.youtube.com/embed/WLEesT7h8Fg?si=csB80qhVpHKtIzS-&start=525&autoplay=1",
-    thumbImg: "/mnt/user-data/uploads/nickdadababy.png",
+    thumbImg: "/images/nickdadababy.png",
     category: "Showrunner / Formats",
   },
   {
@@ -43,7 +43,7 @@ const WORK = [
     link: "https://www.accessonline.com/videos/bert-kreischer-chokes-up-thinking-about-how-far-he-has-come-in-his-career",
     videoId: null,
     embedUrl: "https://www.accessonline.com/embed-video/bert-kreischer-chokes-up-thinking-about-how-far-he-has-come-in-his-career",
-    thumbImg: "/mnt/user-data/uploads/bert.png",
+    thumbImg: "/images/bert.png",
     category: "Talent + Interviews",
   },
   {
@@ -54,7 +54,7 @@ const WORK = [
     link: "https://www.youtube.com/watch?v=TnZ86XsJ1YQ",
     videoId: "TnZ86XsJ1YQ",
     embedUrl: "https://www.youtube.com/embed/TnZ86XsJ1YQ?si=a6XF0VsGRofroV68&autoplay=1",
-    thumbImg: "/mnt/user-data/uploads/thereal.png",
+    thumbImg: "/images/thereal.png",
     category: "Branded Content",
   },
   {
@@ -64,7 +64,7 @@ const WORK = [
     desc: "Wrote and directed a comedy-driven field piece built around performance, pace, and a strong comedic point of view.",
     link: "https://youtu.be/CG5NBIAVI4U?si=W4ew_ngceA0wUIdD",
     videoId: "CG5NBIAVI4U",
-    thumbImg: "/mnt/user-data/uploads/frangelaj.png",
+    thumbImg: "/images/frangelaj.png",
     category: "Comedy / Directing",
   },
 ];
@@ -73,14 +73,14 @@ const PODCASTS = [
   {
     title: "Fail Fast with Adam and Reggie",
     desc: "Long-form conversations built around candid storytelling, comedy, and lived creative experience.",
-    art: "/mnt/user-data/uploads/failfast.png",
+    art: "/images/failfast.png",
     link: "https://open.spotify.com/show/1lh0GkUaD36FsszAN5mRjI",
     linkLabel: "Listen on Spotify",
   },
   {
     title: "Proudly Resents",
     desc: "The cult movie podcast — interview-driven entertainment with a strong point of view and deep producing instincts.",
-    art: "/mnt/user-data/uploads/proudlyresents.png",
+    art: "//images/proudlyresents.png",
     link: "https://proudlyresents.com",
     linkLabel: "Visit proudlyresents.com",
   },
