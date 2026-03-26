@@ -10,7 +10,7 @@ const WORK = [
     link: "https://www.youtube.com/watch?v=jNzUVqPnkNE",
     videoId: "jNzUVqPnkNE",
     embedUrl: "https://www.youtube.com/embed/jNzUVqPnkNE?si=IgNSWQXEzMm6hH1U&autoplay=1",
-    thumbImg: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_12_17_34_PM.png",
+    thumbImg: "/mnt/user-data/uploads/willandgrace.png",
     category: "Showrunner / Formats",
   },
   {
@@ -21,7 +21,7 @@ const WORK = [
     link: "https://www.accessonline.com/videos/can-these-contestants-beat-mario-lopez-in-celebrity-trivia",
     videoId: null,
     embedUrl: "https://www.accessonline.com/embed-video/can-these-contestants-beat-mario-lopez-in-celebrity-trivia",
-    thumbImg: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_11_49_02_AM.png",
+    thumbImg: "/mnt/user-data/uploads/beatmario.png",
     category: "Showrunner / Formats",
   },
   {
@@ -32,7 +32,7 @@ const WORK = [
     link: "https://youtu.be/WLEesT7h8Fg?si=Taljzf9PFxa9Kj0s&t=525",
     videoId: "WLEesT7h8Fg",
     embedUrl: "https://www.youtube.com/embed/WLEesT7h8Fg?si=csB80qhVpHKtIzS-&start=525&autoplay=1",
-    thumbImg: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_12_05_11_PM.png",
+    thumbImg: "/mnt/user-data/uploads/nickdadababy.png",
     category: "Showrunner / Formats",
   },
   {
@@ -43,7 +43,7 @@ const WORK = [
     link: "https://www.accessonline.com/videos/bert-kreischer-chokes-up-thinking-about-how-far-he-has-come-in-his-career",
     videoId: null,
     embedUrl: "https://www.accessonline.com/embed-video/bert-kreischer-chokes-up-thinking-about-how-far-he-has-come-in-his-career",
-    thumbImg: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_9_47_24_AM.png",
+    thumbImg: "/mnt/user-data/uploads/bert.png",
     category: "Talent + Interviews",
   },
   {
@@ -58,13 +58,13 @@ const WORK = [
     category: "Branded Content",
   },
   {
-    title: "Frangela Break Down Action Movies",
+    title: "Hilarious Comedy Team 'Frangela" Break Down Action Movies",
     subtitle: "Comedy Field Piece",
     role: "Producer / Director",
     desc: "Wrote and directed a comedy-driven field piece built around performance, pace, and a strong comedic point of view.",
     link: "https://youtu.be/CG5NBIAVI4U?si=W4ew_ngceA0wUIdD",
     videoId: "CG5NBIAVI4U",
-    thumbImg: "/mnt/user-data/uploads/Screenshot_2026-03-23_at_11_57_19_AM.png",
+    thumbImg: "/mnt/user-data/uploads/frangelaj.png",
     category: "Comedy / Directing",
   },
 ];
