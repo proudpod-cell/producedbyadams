@@ -80,7 +80,7 @@ const PODCASTS = [
   {
     title: "Proudly Resents",
     desc: "The cult movie podcast — interview-driven entertainment with a strong point of view and deep producing instincts.",
-    art: "/images/proudlyresents.png",
+    art: "/images/prlogogrey.png",
     link: "https://proudlyresents.com",
     linkLabel: "Visit proudlyresents.com",
   },
@@ -98,7 +98,7 @@ const WRITING = [
     link: "https://substack.com/@kingspiegs/p-184517141",
   },
   {
-    title: "A Highly Personal Magazine Piece About Parenting",
+    title: "A Personal Magazine Piece About Talking to My Kids About Drugs",
     tag: "Published",
     link: "https://adamspiegelman.blogspot.com/2018/07/blog-post.html",
   },
