@@ -80,7 +80,7 @@ const PODCASTS = [
   {
     title: "Proudly Resents",
     desc: "The cult movie podcast — interview-driven entertainment with a strong point of view and deep producing instincts.",
-    art: "//images/proudlyresents.png",
+    art: "/images/proudlyresents.png",
     link: "https://proudlyresents.com",
     linkLabel: "Visit proudlyresents.com",
   },
