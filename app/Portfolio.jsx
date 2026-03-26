@@ -32,7 +32,7 @@ const WORK = [
     link: "https://youtu.be/WLEesT7h8Fg?si=Taljzf9PFxa9Kj0s&t=525",
     videoId: "WLEesT7h8Fg",
     embedUrl: "https://www.youtube.com/embed/WLEesT7h8Fg?si=csB80qhVpHKtIzS-&start=525&autoplay=1",
-    thumbImg: "/images/nickdafuture.png",
+    thumbImg: "/images/nickdadafuture.png",
     category: "Showrunner / Formats",
   },
   {
