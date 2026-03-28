@@ -88,17 +88,17 @@ const PODCASTS = [
 
 const WRITING = [
   {
-    title: "The Couple Who Taught Me How Show Business Really Works",
+    title: "The Question Every Producer Dreads to Ask",
     tag: "Essay",
     link: "https://substack.com/@kingspiegs/p-182739413",
   },
   {
-    title: "What Producing Taught Me About Attention",
+    title: "I Was Gaslit by a Chatbot",
     tag: "Essay",
     link: "https://substack.com/@kingspiegs/p-184517141",
   },
   {
-    title: "A Personal Magazine Piece About Talking to My Kids About Drugs",
+    title: "Being Honest With Your Kids About Drugs",
     tag: "Published",
     link: "https://adamspiegelman.blogspot.com/2018/07/blog-post.html",
   },
